@@ -1,0 +1,37 @@
+* fceedcf (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* da5d6a5 chore: remove old changelog
+* 97ece16 docs: Add changelog
+*   de69ce7 (tag: v1.1.0, tag: v1.0.0) Merge branch 'main' of https://github.com/KONDIUMAVARALAKSHMI/git-solved--23A91A05A4-
+|\  
+| *   7dd8c0b Merge pull request #1 from KONDIUMAVARALAKSHMI/feature/new-feature
+| |\  
+| | * 0a56c37 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| | | * 7bd5a8f (origin/feature/another-feature, feature/another-feature) Bad commit
+| | |/  
+| |/|   
+| | | *   592ac27 (refs/stash) On feature/another-feature: Saving my local changes before revert
+| | | |\  
+| | | | * ecba1ae index on feature/another-feature: 5aa49cf Bad commit
+| | | |/  
+| | | * 5aa49cf Bad commit
+| | | * 6af0cc5 feat: Add test feature
+| |_|/  
+|/| |   
+* | | 219c2a2 docs: Update README
+|/ /  
+* | 1666217 feat: Add new feature
+* | fe22525 docs: Add FAQ section
+|/  
+* a4632e9 add: added checkpoint2 image for verification
+*   f49f147 Resolved all merge conflicts between main and dev branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | bd1eb8a add: added checkpoint image, lock file, and server script
+* |   8cacf41 Resolved README.md merge conflict
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
