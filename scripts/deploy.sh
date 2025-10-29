@@ -107,3 +107,4 @@ case "$DEPLOY_ENV" in
 esac
 
 echo "✅ Deployment completed successfully!"
+"BUG" 
