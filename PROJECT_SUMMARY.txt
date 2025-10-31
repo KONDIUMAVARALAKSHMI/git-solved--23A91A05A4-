@@ -1,0 +1,6 @@
+﻿Git Challenge Summary:
+- All merge conflicts resolved manually
+- All branches (main, dev, conflict-simulator) verified
+- All key Git commands practiced (fetch, pull, merge, rebase, stash, cherry-pick, revert, tag)
+- Final artifacts and documentation added
+- Total 20 commits completed successfully!
